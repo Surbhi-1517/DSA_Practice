@@ -10,5 +10,12 @@ import java.util.*;
             System.out.println();
         }
     }
-    
-}
+  }
+
+//code:- Output
+
+ *****
+ *****
+ *****
+ *****
+ *****
